@@ -10,16 +10,16 @@ Here is the link for Git questionaire
 ```
 ### SQL
 ```
-Here's the link for SQL questionaire =>[https://github.com/Tech-i-s/JavaScript-questionarie/blob/main/README.md]
+Here's the link for SQL questionaire 
 ```
 ### Django
 ```
 Here is the link for Django questionaire
 ```
 ### JavaScript
-```
-Here is the link for JavaScript questionaire
-```
+
+JavaScript : [https://github.com/Tech-i-s/JavaScript-questionarie/blob/main/README.md]
+
 ### React
 ```
 Here is the link for React questionaire
