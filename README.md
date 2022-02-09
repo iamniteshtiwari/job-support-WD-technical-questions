@@ -10,7 +10,7 @@ Here is the link for Git questionaire
 ```
 ### SQL
 ```
-Here is the link for SQL questionaire
+Here's the link for SQL questionaire =>[https://github.com/Tech-i-s/JavaScript-questionarie/blob/main/README.md]
 ```
 ### Django
 ```
