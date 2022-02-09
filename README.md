@@ -17,9 +17,9 @@ Here's the link for SQL questionaire
 Here is the link for Django questionaire
 ```
 ### JavaScript
-```
+
 JavaScript : [https://github.com/Tech-i-s/JavaScript-questionarie/blob/main/README.md]
-```
+
 ### React
 ```
 Here is the link for React questionaire
