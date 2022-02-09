@@ -9,9 +9,9 @@ Here is the link for HTML/CSS questionaire
 Here is the link for Git questionaire
 ```
 ### SQL
-```
-Here's the link for SQL questionaire 
-```
+
+(https://docs.google.com/document/d/1se_RXgcUpA8MA6XxuZEqajfNpBWZb6hNx7DzZiAmlAQ/edit#heading=h.fm85b9vexv7s)
+
 ### Django
 ```
 Here is the link for Django questionaire
